@@ -15,4 +15,4 @@
 ### 實例: 預測人生財務曲線
 
 PPT:
-<https://drive.google.com/file/d/1xKcLDfBS5HX45CSABIJb_OWuCKnB-U9p/view?usp=sharing>
+<https://github.com/BenmrChen/Python/blob/master/Python_pandas_intro.pptx>
