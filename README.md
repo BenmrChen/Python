@@ -18,3 +18,7 @@
 
 ## 部落格文章連結:
 <https://growingdna.com/python-pandas-intro/>
+
+
+# 使用 Python Pandas 來抓取台股每日資訊
+![](https://growingdna.com/wp-content/uploads/2020/02/1601110758021770.jpg)
